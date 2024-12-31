@@ -15,6 +15,7 @@ https://buymeacoffee.com/aarturoo
   3. 그에 따라 화면 배치 달라진 거 적용
 
 **다운 방법**
+
 오른쪽 Releases에서
 PTCGPB-2.8.0-noob-v1.zip
 다운받으면 됨
