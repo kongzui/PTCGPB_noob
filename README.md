@@ -1,3 +1,5 @@
+# **PTCGPB v3.0.0 noob_v2**
+
 **수정 사항 :**
 - **크라운 뜨면 정지하는 거 추가(종류 상관없이)**
 - **닉네임 한글 입력 가능**
@@ -16,7 +18,6 @@
 https://buymeacoffee.com/aarturoo
 *후원해주셔서 감사합니다. 갓팩을 계속 찾아보세요!* 😄
 
-# **PTCGPB v3.0.0 noob_v2**
 - 원본 링크
 - https://github.com/Arturo-1212/PTCGPB
   
