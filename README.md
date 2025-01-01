@@ -8,8 +8,8 @@
 - 버전 3.0.0 noov_V3 : (예정) 한글닉네임
 
 ## 📥 다운로드
-- `PTCGPB_3.0.0_noob_v2.zip` 다운로드하시면 됩니다. (Latest붙은거)
-- 또는 클릭 [PTCGP Bot_noob V2](https://github.com/kongzui/PTCGPB_noob/releases/download/v3.0.0.2/PTCGPB_3.0.0_noob_v2.zip)
+- 오른쪽 탭의 'Release'에서 원하는 버전 다운로드하시면 됩니다.
+- 또는 바로 다운로드 [PTCGP Bot_noob V2](https://github.com/kongzui/PTCGPB_noob/releases/download/v3.0.0.2/PTCGPB_3.0.0_noob_v2.zip)
 
 ## 💝 원작자 메시지
 > 이 봇은 현재 방식이 유효한 한 무료로 제공되며 계속 업데이트됩니다. PTCGPB 제작에 많은 시간을 투자했으며, 여러분의 컬렉션 완성에 도움이 되었다면 커피 한잔의 후원으로 새로운 기능 개발을 지원해주세요!
