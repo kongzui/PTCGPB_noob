@@ -25,7 +25,7 @@
 ## 🔧 필수 프로그램
 1. [MuMu 플레이어](https://www.mumuplayer.com/)
 2. [AutoHotkey v1.X](https://www.autohotkey.com/download/ahk-install.exe)
-3. [PTCGP Bot](https://github.com/Arturo-1212/PTCGPB/archive/refs/tags/v3.0.0.zip)
+3. [PTCGP Bot_noob]([https://github.com/Arturo-1212/PTCGPB/archive/refs/tags/v3.0.0.zip](https://github.com/kongzui/PTCGPB_noob/releases/download/v3.0.0.2/PTCGPB.v3.0.0_noob_v2.2.zip))
 
 ## 📝 설치 가이드
 
