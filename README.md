@@ -8,7 +8,7 @@
 - 버전 3.0.0 noov_V3 : (예정) 한글닉네임
 
 ## 📥 다운로드
-- 오른쪽 탭의 'Releases' 에서 원하는 버전 다운로드하시면 됩니다.
+- 오른쪽 탭의 `Releases` 에서 원하는 버전 다운로드하시면 됩니다.
 - 또는 바로 다운로드 [PTCGPB_3.0.0_noob_v2](https://github.com/kongzui/PTCGPB_noob/releases/download/v3.0.0.2/PTCGPB_3.0.0_noob_v2.zip)
 
 ## 💝 원작자 메시지
