@@ -1,13 +1,15 @@
-# PTCGPB v3.0.0 noob_v2
+# PTCGPB v3.0.0 noob_v3
 
 ## 🆕 기능 설명(+변경사항) 
 - 크라운 카드 획득 시 자동 정지 기능 추가 (피카츄/뮤/리자몽)
 - 나이 설정 성인으로 변경 및 UI 배치 수정
 - 영어닉네임만 가능
+- 4팩 오픈 후 25마리 전체 화면 스크린샷 All 폴더에 저장
+- 각종 메뉴 한글화
 
 ## 📥 다운로드
 - 오른쪽 탭의 `Releases` 에서 다운로드하시면 됩니다.
-- 또는 바로 다운로드 [PTCGPB_3.0.0_noob_v2](https://github.com/kongzui/PTCGPB_noob/releases/download/v3.0.0.2/PTCGPB-3.0.0_noob_v2.zip)
+- 또는 바로 다운로드 [PTCGPB_3.0.0_noob_v3](https://github.com/kongzui/PTCGPB_noob/releases/download/v3.0.0.3/PTCGPB-3.0.0_noob_v3.zip)
 
 ## 💝 원작자 메시지
 > 이 봇은 현재 방식이 유효한 한 무료로 제공되며 계속 업데이트됩니다. PTCGPB 제작에 많은 시간을 투자했으며, 여러분의 컬렉션 완성에 도움이 되었다면 커피 한잔의 후원으로 새로운 기능 개발을 지원해주세요!
@@ -26,7 +28,7 @@
 ## 🔧 필수 프로그램
 1. [MuMu 플레이어](https://www.mumuplayer.com/)
 2. [AutoHotkey v1.X](https://www.autohotkey.com/download/ahk-install.exe)
-3. [PTCGP Bot_noob V2](https://github.com/kongzui/PTCGPB_noob/releases/download/v3.0.0.2/PTCGPB-3.0.0_noob_v2.zip)
+3. [PTCGP Bot_noob V2](https://github.com/kongzui/PTCGPB_noob/releases/download/v3.0.0.3/PTCGPB-3.0.0_noob_v3.zip)
 
 ## 📝 설치 가이드
 
